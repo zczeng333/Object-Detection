@@ -1,5 +1,5 @@
 # Object-Detection
-Object detection algorithms based on Pyhotn
+Object detection algorithms based on Python
 img_denoising.py: image denoising module
 img_histogram.py: histogram equalization module
 img_sharpening.py: image sharpening module
